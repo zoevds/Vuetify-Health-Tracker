@@ -1,15 +1,15 @@
 <template>
   <v-app>
-  <SideBar />
+  <sideBar />
 
     <v-main>
-      <router-view/>
+      <router-view></router-view>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import sideBar from './components/sideBar.vue';
+import sideBar from './/components/sideBar.vue';
 
 export default {
     name: "App",
