@@ -296,10 +296,4 @@ return this.$vuetify.theme.dark ? "dark" : "light" ;
 }
   }
 </script>
-<!-- <style>
-  .v-avatar.v-list-item__avatar.pr-20 {
-    height: 130px;
-    min-width: 130px;
-    width: 130px;
-}
-</style> -->
+
